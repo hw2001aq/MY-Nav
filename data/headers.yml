@@ -1,6 +1,6 @@
-- item: 首页
+- item: 返回导航
   icon: fa fa-home
-  link: "https://sofuns.com"
+  link: "/"
 
 - item: 作者博客
   icon: fab fa-hive
