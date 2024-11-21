@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 作者站点
+- taxonomy: 自用站点
   icon: fas fa-medal
   links:
     - title: '史提芬先森 · 语雀'
@@ -34,8 +34,8 @@
     - title: 关注我们
       logo: q/qrcode.png
       url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+      qrcode: q/qrcode.png
+      description: 微信公众号：xxxx！
 
 - taxonomy: 常用推荐
   icon: far fa-star
